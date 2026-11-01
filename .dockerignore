@@ -1,0 +1,13 @@
+node_modules
+work
+data
+design
+dist
+.git
+.env
+test
+
+outputs
+.env.*
+*.pem
+*.key
